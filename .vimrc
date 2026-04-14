@@ -46,6 +46,7 @@ vnoremap A iW
 nnoremap s ^v$h
 vnoremap s j$
 vnoremap p <ESC>
+vnoremap ä o
 
 " q = Bereich Ende obere Zeile bis Anfang aktuelle Zeile
 " (Hebt im Visual Mode die bestehende Auswahl erst auf)
