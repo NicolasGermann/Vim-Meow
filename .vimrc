@@ -35,8 +35,8 @@ nnoremap v p
 vnoremap v p
 
 " --- Auswahl (Visual Mode) ---
-nnoremap w vi(
-vnoremap w i(
+nnoremap w vi
+vnoremap w i
 nnoremap x vt
 nnoremap y vf
 nnoremap a viw
