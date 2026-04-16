@@ -75,3 +75,7 @@ vnoremap r <Esc>a
 
 nnoremap E O
 nnoremap R o
+
+nnoremap <C-l> zz
+vnoremap <C-l> zz
+inoremap <C-l> zz
