@@ -43,7 +43,7 @@ nnoremap a viw
 vnoremap a iw
 nnoremap A viW
 vnoremap A iW
-nnoremap s V
+nnoremap s 0v$g_
 vnoremap s j$
 vnoremap p <ESC>
 vnoremap ä o
