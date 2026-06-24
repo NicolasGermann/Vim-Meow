@@ -38,7 +38,7 @@ vnoremap v p
 nnoremap w vi
 vnoremap w i
 nnoremap x vt
-nnoremap y vf
+nnoremap y vT
 nnoremap a viw
 vnoremap a iw
 nnoremap A viW
